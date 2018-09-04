@@ -1,2 +1,37 @@
+##Lower tiers Bias Higher tiers##
 
-hello
+First tier characteristics:
+  Race
+  Gender
+  Age
+  Name
+
+Second tier characteristics:
+  Eye Colour
+  Hair Colour
+  Skin Colour
+  Primary Languages
+  Height
+  Build
+  Weight
+
+Third tier characteristics:
+  Alignment
+  Level
+  Personality
+  Class
+  Attributes
+
+Fourth tier characteristics:
+  Skills
+  Inventory
+  Proficiencies/Expertise
+
+Fifth tier characteristics:
+  Abilities
+  Secondary Languages
+  Spellbook
+  HP
+  AC
+  Speed
+  Values/Principles
