@@ -1,2 +1,2 @@
 print ('Hello')
-Print ('World')
+print ('World')
