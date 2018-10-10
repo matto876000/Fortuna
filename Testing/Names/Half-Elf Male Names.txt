@@ -32,7 +32,6 @@ Petfaelor
 Gradeyr
 Lorqinor
 Travalor
-Yenxiron
 Vanminar
 Kevelor
 Kriyeras
@@ -42,11 +41,9 @@ Frilyeras
 Walword
 Walkoris
 Tyravor
-Eircraes
 Eirlumin
 Trasariph
 Xavgretor
-Walynor
 Davvoril
 Horstaer
 Sarkoris
@@ -67,7 +64,6 @@ Panminar
 Yenxiron
 Hororin
 Eircraes
-Arozaphir
 Alsariph
 Vicphanis
 Vanxiron
@@ -80,7 +76,6 @@ Trareak
 Falqinor
 Eirnan
 Craqinor
-Meizaphir
 Eirzaren
 Panavor
 Marparin
@@ -136,7 +131,6 @@ Meizaphir
 Panstaer
 Meitorin
 Crafinas
-Zylvoril
 Alkas
 Lorben
 Yenorin
@@ -148,3 +142,9 @@ Tyrvoril
 Trawarith
 Meiword
 Syltorin
+Vicmorn
+Quovoril
+Krilanann
+Wilmorn
+Zylenas
+Petovar
