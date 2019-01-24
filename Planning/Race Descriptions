@@ -32,9 +32,6 @@ Aarakocra:
     -1 to all rolls when in a confined space
     Talons = 1d4
 
-  Favoured class:
-    Ranger, cleric, monk
-
 
 
 Dragonborn:
@@ -57,7 +54,7 @@ Dragonborn:
     Any
 
   Language(s):
-    Draconian
+    Draconic, Common
       That of those around it
 
   Racial Traits:
@@ -68,3 +65,68 @@ Dragonborn:
       DC = 8 + Con mod + prof
       2d6 on fail
         Add 1d6 at lvl 6, 11 and 16
+
+
+
+Drow:
+  Description:
+    Dark elf, was banished from the surface
+
+  Home:
+    Underdark
+
+  Size:
+    Medium
+
+  Age:
+    800
+
+  Culture:
+    Vengeful race that seeks to dominate the surface
+
+  Typical alignment:
+    Lawful Evil
+
+  Language(s):
+    Elven, Common, Sylvan
+
+  Racial traits:
+    +2 dex, -2 con
+    30 ft land speed
+    immune to sleep effects and +2 to saves against enchantments
+    darkvision to 120ft
+    Blinded by bright light
+    prof in rapier, hand crossbow and shortsword
+    +2 to search, listen and spot checks. Passing within 5 ft of a secret door
+      allows search check as if actively looking for it
+
+
+
+Dwarf:
+  Description:
+    Short, burly, we all know what a dwarf is
+
+  Home:
+    Underground regions
+
+  Size:
+    medium
+
+  Age:
+    350
+
+  Culture:
+    Sturdy, stubborn and hard working, believing in fair play
+
+  Typical alignment:
+    Lawful good
+
+  Language(s):
+    Common, Dwarvish
+
+  Racial traits:
+    Con +2
+    25ft walk speed, not reduced by heavy armour
+    60 ft darkvision
+    Advantage and resistance against poison
+    prof with axes and hammers
