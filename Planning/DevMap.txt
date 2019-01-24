@@ -1,0 +1,10 @@
+1) Character generator
+  a) Race generation
+  b) First tier generation
+  c) Second tier generation
+  d) Third tier generation
+  e) fourth tier generation
+  f) fifth tier generation
+  g) format output (input the output onto a character sheet?)
+
+2) Environment generator
