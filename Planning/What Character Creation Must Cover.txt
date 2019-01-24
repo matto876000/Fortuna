@@ -1,7 +1,9 @@
 ##Lower tiers Bias Higher tiers##
 
-First tier characteristics:
+Zero tier characteristics:
   Race
+
+First tier characteristics:
   Gender
   Age
   Name
