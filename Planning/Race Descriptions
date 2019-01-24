@@ -1,0 +1,70 @@
+Aarakocra:
+  Description:
+    Bird people (Eagle), fairly tall, extremely light (Hollow bones)
+
+  Home:
+    Typically the elemental plane of air, but scouts can be found throughout
+    the material plane
+
+  Size:
+    Medium
+
+  Age:
+    80
+
+  Culture:
+    Trusting of races who share the air with them; suspicious of
+    flightless races. Slow to trust and absolutely hate gargoyles.
+
+  Typical alignment(s):
+    Any
+
+  Language(s):
+    Auran
+      Aquan, Ignan, Terran, Yuan-ti, Elven, Sylvan
+
+  Racial traits:
+    +2 dex, +2 wis, -2 str
+    humanoid with monstrous subtype
+    Land speed = 20ft, air speed = 50ft
+    Proficient with bows
+    +2 bonus to all spot and search checks
+    -1 to all rolls when in a confined space
+    Talons = 1d4
+
+  Favoured class:
+    Ranger, cleric, monk
+
+
+
+Dragonborn:
+  Description:
+    Half Dragon
+
+  Home:
+    Anywhere
+
+  Size:
+    medium:
+
+  Age:
+    80
+
+  Culture:
+    That of those around it (Typically an outcast)
+
+  Typical alignments:
+    Any
+
+  Language(s):
+    Draconian
+      That of those around it
+
+  Racial Traits:
+    str +2, cha +1
+    Grows quickly
+    30ft land speed
+    Has the breath weapon of parent
+      DC = 8 + Con mod + prof
+      2d6 on fail
+        Add 1d6 at lvl 6, 11 and 16
